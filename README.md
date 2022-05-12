@@ -12,7 +12,7 @@ Written in Pythhon <br>
 With only a week's experience programming in Python. The game includes an input from the user and nested loops (while and if). <br>
 <em>¡Con tan solo una semana de experiencia programando en Python! El codigo utiliza una entrada del usuario para crear un juego interactivo, asi como varios bucles (tanto while como if). </em>
 
-AUTHOR :black_nib:
+<strong>AUTHOR</strong> :black_nib:
 - Nic Orchard @nicaob
 
 
