@@ -13,6 +13,7 @@ With only a week's experience programming in Python. The game includes an input 
 <em>¡Con tan solo una semana de experiencia programando en Python! El codigo utiliza una entrada del usuario para crear un juego interactivo, asi como varios bucles (tanto while como if). </em>
 
 <h2>Pre-requisites :black_nib: </h2>
+
 ```
 pip install -r requirements.txt 
 ```
